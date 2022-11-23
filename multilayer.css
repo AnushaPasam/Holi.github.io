@@ -1,0 +1,46 @@
+.holicard{
+    background-image: url("https://img.freepik.com/free-vector/banner-with-color-powder-burst-dust-splashes_107791-10953.jpg?w=1060&t=st=1669180367~exp=1669180967~hmac=1eb9e319da8a4552b41e672ca41a36750a668e614cf1abb9d4474cae477ecad7");
+    background-size: cover;
+    height: 30vh;
+}
+.heading{
+    color:whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-top:100px;
+}
+.lines{
+    color: whitesmoke;
+    font-size:20px ;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.holi{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/02/11/55/53/1000_F_211555371_Ux7q1fXE5aI5pxeAv2ASjOasK6oAVMRp.jpg");
+    background-size: cover;
+    height: 80vh;
+}
+.img{
+    height: 80px;
+    width: 80px;
+}
+.holicardbottom{
+    background-color:wheat;
+    width: 150px;
+    border-radius: 15px;
+    padding:5px;
+    height: 180px;
+    text-align: center;
+    margin: 10px;
+}
+.holiheading{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
+    padding:12px;
+}
+.holipara{
+    font-weight: bold;
+}
